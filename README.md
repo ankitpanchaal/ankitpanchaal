@@ -33,15 +33,6 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankit0panchal&show_icons=true&theme=transparent&hide_title=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit0panchal&layout=compact&theme=transparent&hide_title=true" height="165">
-</p>
-
----
-
 ### 🔗 Connect With Me
 - **Email:** ankit0panchal@gmail.com  
 - **LinkedIn:** <https://www.linkedin.com/in/ankit-panchal-a46ba4242/>  
