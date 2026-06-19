@@ -3,7 +3,6 @@
 <h1 align="center">Hey there, I'm Ankit Panchal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <p align="center">
-  <a href="https://www.ankitpanchal.space">Portfolio</a> •
   <a href="https://www.linkedin.com/in/ankit-panchal-a46ba4242/">LinkedIn</a> •
   <a href="https://x.com/ankit0panchal">Twitter&nbsp;/&nbsp;X</a>
 </p>
